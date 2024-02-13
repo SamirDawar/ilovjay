@@ -1,3 +1,6 @@
+body{
+  background-color: #c0edee;
+}
 .valentine-container {
   display: flex;
   justify-content: center;
@@ -8,7 +11,7 @@
 /* Custom class for Yes button styles */
 .yes-button {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  background-color: #a7efb8; /* bg-green-500 */
+  background-color: #74edf1; /* bg-green-500 */
   color: #fff; /* text-white */
   font-weight: bold; /* font-bold */
   padding: 8px 16px; /* py-2 px-4 */
@@ -17,12 +20,12 @@
 }
 
 .yes-button:hover {
-  background-color: #4f7457; /* hover:bg-green-700 */
+  background-color: #00f7ff; /* hover:bg-green-700 */
 }
 
 /* Custom class for No button styles */
 .no-button {
-  background-color: #c90d0d; /* bg-red-500 */
+  background-color: #e7799e; /* bg-red-500 */
   color: #fff; /* text-white */
   font-weight: bold; /* font-bold */
   padding: 8px 16px; /* py-2 px-4 */
@@ -30,7 +33,7 @@
 }
 
 .no-button:hover {
-  background-color: #c82333; /* hover:bg-red-700 */
+  background-color: #f5548a; /* hover:bg-red-700 */
 }
 /* Custom class for text-4xl my-4 container */
 .text-container {

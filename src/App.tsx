@@ -38,15 +38,15 @@ export default function Page() {
       <div className="valentine-container">
         {yesPressed ? (
           <>
-            <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-            <div className="text-container">Ok yay!!!</div>
+            <img src="https://i.pinimg.com/originals/5a/96/98/5a9698bf5e591662be47616db01bae32.gif" />
+            <div className="text-container">YEAHHHHH!!!</div>
           </>
         ) : (
           <>
             <img
               className="h-[200px]"
               style={{ width: "400x", height: "240px" }}
-              src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+              src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-1309.gif"
             />
             <h1 className="text-container">Will you be my Valentine?</h1>
             <div>
